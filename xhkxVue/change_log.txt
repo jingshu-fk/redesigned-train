@@ -1,0 +1,116 @@
+﻿######################################################################################################
+# file： change_log
+# module: service-watcher
+# desc:
+#
+######################################################################################################
+
+#Changes for xhkx_vue_dev_v1.0.0_20191210A  as following:
+#2019/12/10
+1.初始版本
+
+#Changes for xhkx_vue_dev_v1.0.0_20191212A  as following:
+#2019/12/12
+1.初始版本完成
+
+#Changes for xhkx_vue_dev_v1.0.0_20191216A  as following:
+#2019/12/16
+1.第一次迭代版本bug修复
+
+#Changes for xhkx_vue_dev_v1.0.0_20191217A  as following:
+#2019/12/17
+1.告警不显示bug修复
+2.敏感词新建失败修复
+3.审核列表翻页bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20191218A  as following:
+#2019/12/18
+1.告警标识清除bug修复及定时器bug修改
+2.配置项的值校验规则去掉
+3.审核列表修改任务数据显示bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20191223A  as following:
+#2019/12/23
+bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20191226A  as following:
+#2019/12/26
+bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20191228A  as following:
+#2019/12/28
+bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20191230A  as following:
+#2019/12/30
+登录页面优化和bug修改
+信息审核页面列表点击事件优化
+
+#Changes for xhkx_vue_dev_v1.0.0_20200106A  as following:
+#2020/01/06
+登录页面排版修改
+IE菜单无法点击修复
+增加登录后的首页展示
+
+#Changes for xhkx_vue_dev_v1.0.0_20200106B  as following:
+#2020/01/06
+用户管理增加角色显示
+
+#Changes for xhkx_vue_dev_v1.0.0_20200107A  as following:
+#2020/01/07
+IE兼容问题修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20200109A  as following:
+#2020/01/09
+IE兼容问题修改
+密码强度修改
+登录失败验证码刷新
+首页图片更换
+菜单管理增删改刷新菜单优化
+用户管理、角色管理bug修改
+菜单管理的图标改为选择图标模式
+
+#Changes for xhkx_vue_dev_v1.0.0_20200110A  as following:
+#2020/01/10
+IE兼容问题修改及样式优化
+信息列表修改时间bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20200113A  as following:
+#2020/01/13
+IE兼容问题修改及样式优化
+信息列表修改时间bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20200114A  as following:
+#2020/01/14
+信息录入保存时表单验证bug修改
+
+#Changes for xhkx_vue_dev_v1.0.0_20200115A  as following:
+#2020/01/15
+信息列表查询功能优化
+信息审核查询功能优化
+
+#Changes for xhkx_vue_dev_v1.0.0_20200115B  as following:
+#2020/01/15
+IE兼容性修改：信息审核页面在待审核状态的记录与其他记录来回点击，页面卡住
+
+#Changes for xhkx_vue_dev_v1.0.0_20200119A  as following:
+#2020/01/19
+数据异常时列表不显示bug修改，样式微调
+
+#Changes for xhkx_vue_dev_v1.0.0_20200410A  as following:
+#2020/04/10
+调整适配问他
+
+#Changes for xhkx_vue_dev_v1.0.0_20200427A  as following:
+#2020/04/27
+调整适配问题
+
+
+#Changes for xhkx_vue_dev_v1.0.0_20200428A  as following:
+#2020/04/28
+调整适配问题
+
+
+#Changes for xhkx_vue_dev_v1.0.0_20200429A  as following:
+#2020/04/29
+调整适配问题
